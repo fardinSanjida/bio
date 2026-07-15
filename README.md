@@ -1,5 +1,4 @@
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:7C3AED,100:EC4899&height=230&section=header&text=Fardin%20Sanjida%20Rahman&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Full-Stack%20Web%20Developer&descAlignY=55&descSize=21" alt="Fardin Sanjida Rahman - Full Stack Web Developer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=React.js+%7C+Next.js+%7C+TypeScript;JavaScript+ES6%2B+%7C+Tailwind+CSS+%7C+Bootstrap;Building+Responsive+and+User-Friendly+Web+Applications;Open+to+Frontend+Developer+Opportunities" alt="Typing animation" />
